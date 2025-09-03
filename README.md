@@ -1,2 +1,2 @@
-This is the description of my repo
-Modification in feature-greeting branch.
+Some text in the README file
+Modification in main branch.
